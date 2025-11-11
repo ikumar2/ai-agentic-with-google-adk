@@ -57,6 +57,8 @@ Agent created in /Users/ai_agent_with_adk/ai_agent_with_adk:
 - __init__.py
 - agent.py
 
+Created multiple Agent as handled in AgentTool.
+
 Run with command-line interface¶
 Run your agent using the adk run command-line tool.
 
@@ -69,6 +71,7 @@ The ADK framework provides web interface you can use to test and interact with y
 
 Launch the url on browser "http://127.0.0.1:8000"
 
+Note: signleagent.py used for single Agent. 
 
 
 
