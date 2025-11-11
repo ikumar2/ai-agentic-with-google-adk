@@ -1,0 +1,4 @@
+.env
+.idea/
+__pycache__/
+ai_agent_with_adk/__pycache__/
