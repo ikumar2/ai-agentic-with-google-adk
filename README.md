@@ -1,6 +1,10 @@
-🛠️ Step-by-Step Setup and Create An Agent and multiple agent using ADK with Python
+🛠️ Step-by-Step Setup and Create Multiple agent using Google ADK with Python
 
+**Research & Summarization System**:
+System with two specialized agents:
 
+**Research Agent** - Searches for information using Google Search
+**Summarizer Agent** - Creates concise summaries from research findings
 
 Install 
 Python 3.9 or later
