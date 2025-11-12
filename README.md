@@ -4,6 +4,7 @@
 System with two specialized agents:
 
 **Research Agent** - Searches for information using Google Search
+
 **Summarizer Agent** - Creates concise summaries from research findings
 
 Install 
