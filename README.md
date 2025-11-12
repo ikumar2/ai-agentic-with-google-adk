@@ -64,7 +64,7 @@ Agent created in /Users/ai_agent_with_adk/ai_agent_with_adk:
 
 Created multiple Agent as handled in AgentTool.
 
-Run with command-line interface¶
+Run with command-line interface
 Run your agent using the adk run command-line tool.
 
 **adk run ai_agent_with_adk**
@@ -87,6 +87,22 @@ Outline Agent - Creates a blog outline for a given topic
 Writer Agent - Writes a blog post
 Editor Agent - Edits a blog post draft for clarity and structure
 
+**Run with command-line interface: adk run ai_sequential_agent_with_adk_for_blog_creation**
+
+***********************************************************
+
+Parallel Multi-Topic Research - It helps to achieve speed and remove tha bottleneck of sequential way. 
+
+Suppose we want to do three different research in that case parallelAgent helps to research all topics parallel and aggregate as summary. 
+
+Tech Researcher - Researches AI/ML news and trends
+Health Researcher - Researches recent medical news and trends
+Finance Researcher - Researches finance and fintech news and trends
+Aggregator Agent - Combines all research findings into a single summary
+
+**Run with command-line interface: adk run ai_paralle_agent_to_aggergate_Tech_health_finance_research**
+
+*****************************************************************
 
 
 
