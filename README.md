@@ -77,6 +77,15 @@ Launch the url on browser "http://127.0.0.1:8000"
 
 Note: signleagent.py used for single Agent. 
 
+********************************************************
+Sequential way to use of Agent  - It help to complete step by step as pipeline and provide guaranteed to run in sequential. 
+
+Blog Post Creation with Sequential Agents using three specialized agents:
+
+Outline Agent - Creates a blog outline for a given topic
+Writer Agent - Writes a blog post
+Editor Agent - Edits a blog post draft for clarity and structure
+
 
 
 

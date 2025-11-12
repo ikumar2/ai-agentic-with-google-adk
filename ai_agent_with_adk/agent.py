@@ -14,7 +14,7 @@ root_agent = Agent(
     tools=[
         AgentTool(research_agent),
         AgentTool(summarizer_agent)
-    ],
+    ]
 )
 
 print("✅ root_agent created.")
