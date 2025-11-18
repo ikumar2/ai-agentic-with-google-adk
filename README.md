@@ -104,5 +104,16 @@ Aggregator Agent - Combines all research findings into a single summary
 
 *****************************************************************
 
+research-agent - It helps to do research as well as provide count from how many papers it researched.
+
+Implemented Logging with the help of LoggingPlugin.
+Set up retry concept on HTTP Errors as sometime possible to happen interruption (like: 429, 500, 503, 504) which cause failure.  
+Set up the runner to passing Loggin plugin. 
+Set up the main to run as command line with just python. 
+
+Command: python  agent.py How to learn ai agentic with the help of google adk
+
+*********************************************************************
+
 
 
